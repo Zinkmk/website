@@ -206,7 +206,7 @@ header .header-cases {
     width: 100%;
     height: calc(100vh - 100px);
     /*new things are nice*/
-      background-image: url('htmlcss18/img/banner.jpeg');
+      background-image: url('banner.jpeg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
